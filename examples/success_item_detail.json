@@ -1,0 +1,362 @@
+{
+  "code": 0,
+  "credits": 0.005,
+  "result": {
+    "AmountOnSale": 275,
+    "CategoryId": 50002799,
+    "Coupon": null,
+    "CouponPriceRangeInfos": null,
+    "Delivery": {
+      "From": "广东深圳",
+      "Info": null,
+      "MarkInfo": "预售，付款后3天内发货",
+      "Postage": "快递: 11.00 ",
+      "To": "福州市",
+      "extras": null
+    },
+    "DescUrl": "https://mdetail.tmall.com/templates/pages/desc?id=42919092304",
+    "Detail": "",
+    "FansCount": null,
+    "ImageUrls": [
+      "//gd4.alicdn.com/imgextra/i2/2273872997/O1CN01F9w7VR1Y0fgB6hZMD_!!2273872997.jpg",
+      "//gd1.alicdn.com/imgextra/i1/2273872997/O1CN01hujvoX1Y0fg63YPr7_!!2273872997.jpg",
+      "//gd1.alicdn.com/imgextra/i1/2273872997/O1CN016b9fzF1Y0fg008Nsz_!!2273872997.jpg",
+      "//gd4.alicdn.com/imgextra/i4/2273872997/O1CN01J0MbCn1Y0fgBtovQl_!!2273872997.jpg",
+      "//gd3.alicdn.com/imgextra/i3/2273872997/O1CN01GGnDrd1Y0fg8bskHI_!!2273872997.jpg"
+    ],
+    "MainImageVideo": "http://cloud.video.taobao.com/play/u/p/1/e/6/t/1/50057116315.mp4",
+    "OfferId": 42919092304,
+    "OriginalPriceRangeInfos": [
+      {
+        "ConvertPrice": 0,
+        "CouponPrice": 0,
+        "Price": 82.5,
+        "Range": "3"
+      }
+    ],
+    "PriceRangeInfos": [
+      {
+        "ConvertPrice": 0,
+        "CouponPrice": 0,
+        "Price": 82.5,
+        "Range": "3"
+      }
+    ],
+    "ProductFeatureTuples": [
+      {
+        "Item1": "品牌",
+        "Item2": "splendid potter"
+      },
+      {
+        "Item1": "材质",
+        "Item2": "瓷"
+      },
+      {
+        "Item1": "图案",
+        "Item2": "植物花卉"
+      },
+      {
+        "Item1": "风格",
+        "Item2": "欧美田园"
+      },
+      {
+        "Item1": "形状",
+        "Item2": "圆形"
+      },
+      {
+        "Item1": "产地",
+        "Item2": "中国大陆"
+      },
+      {
+        "Item1": "颜色分类",
+        "Item2": "汤锅1个 米黄色砂锅1.2L 墨绿色砂锅1.2L 米黄色砂锅2.8L 墨绿色砂锅2.8L 米黄色砂锅4L 墨绿色砂锅4L 圆身款-米黄色砂锅2.5L 圆身款-墨绿色砂锅2.5L 圆身款-米黄色砂锅3.5L 圆身款-墨绿色砂锅3.5L"
+      },
+      {
+        "Item1": "价格区间",
+        "Item2": "100元-299元"
+      },
+      {
+        "Item1": "主图来源",
+        "Item2": "自主实拍图"
+      },
+      {
+        "Item1": "个数",
+        "Item2": "1个"
+      },
+      {
+        "Item1": "茶餐具工艺",
+        "Item2": "釉下彩"
+      }
+    ],
+    "ProductFeatures": {
+      "个数": "1个",
+      "主图来源": "自主实拍图",
+      "产地": "中国大陆",
+      "价格区间": "100元-299元",
+      "品牌": "splendid potter",
+      "图案": "植物花卉",
+      "形状": "圆形",
+      "材质": "瓷",
+      "茶餐具工艺": "釉下彩",
+      "颜色分类": "汤锅1个 米黄色砂锅1.2L 墨绿色砂锅1.2L 米黄色砂锅2.8L 墨绿色砂锅2.8L 米黄色砂锅4L 墨绿色砂锅4L 圆身款-米黄色砂锅2.5L 圆身款-墨绿色砂锅2.5L 圆身款-米黄色砂锅3.5L 圆身款-墨绿色砂锅3.5L",
+      "风格": "欧美田园"
+    },
+    "RateCount": null,
+    "RetryCount": 0,
+    "SaleCount": null,
+    "SellCount": null,
+    "SellerId": null,
+    "SellerNick": "泥泥图之窝",
+    "ShopId": "114208872",
+    "ShopInfo": {
+      "DescriptionBranch": 5,
+      "DescriptionCompare": "高于100.00%",
+      "JinpaiTag": null,
+      "LogisticsBranch": 5,
+      "LogisticsCompare": "高于100.00%",
+      "OpenTime": "9年老店            ",
+      "ServiceBranch": 5,
+      "ServiceCompare": "高于100.00%",
+      "Xinyu": "tb-rank-cap:2"
+    },
+    "ShopName": "泥泥图之窝",
+    "ShopUrl": "https://shop114208872",
+    "SkuMaps": [
+      {
+        "AmountOnSale": 0,
+        "Code": "3621525992241",
+        "CouponPrice": 0,
+        "ImageUrl": null,
+        "Key": "1627207:1260552116",
+        "OriginalPrice": 230,
+        "PcOriginalPrice": 230,
+        "Price": 230,
+        "SaleCount": 0,
+        "SkuId": "3621525992241",
+        "SpecAttributes": {
+          "颜色分类": "汤锅1个"
+        }
+      },
+      {
+        "AmountOnSale": 23,
+        "Code": "4557669047577",
+        "CouponPrice": 0,
+        "ImageUrl": null,
+        "Key": "1627207:21961980404",
+        "OriginalPrice": 82.5,
+        "PcOriginalPrice": 82.5,
+        "Price": 82.5,
+        "SaleCount": 0,
+        "SkuId": "4557669047577",
+        "SpecAttributes": {
+          "颜色分类": "米黄色砂锅1.2L 建议2-3人使用"
+        }
+      },
+      {
+        "AmountOnSale": 21,
+        "Code": "5050916578757",
+        "CouponPrice": 0,
+        "ImageUrl": null,
+        "Key": "1627207:21961980405",
+        "OriginalPrice": 82.5,
+        "PcOriginalPrice": 82.5,
+        "Price": 82.5,
+        "SaleCount": 0,
+        "SkuId": "5050916578757",
+        "SpecAttributes": {
+          "颜色分类": "墨绿色砂锅1.2L 建议2-3人使用"
+        }
+      },
+      {
+        "AmountOnSale": 29,
+        "Code": "5050916578758",
+        "CouponPrice": 0,
+        "ImageUrl": null,
+        "Key": "1627207:21961980406",
+        "OriginalPrice": 107.5,
+        "PcOriginalPrice": 107.5,
+        "Price": 107.5,
+        "SaleCount": 0,
+        "SkuId": "5050916578758",
+        "SpecAttributes": {
+          "颜色分类": "米黄色砂锅2.8L 建议3-5人使用"
+        }
+      },
+      {
+        "AmountOnSale": 29,
+        "Code": "5050916578759",
+        "CouponPrice": 0,
+        "ImageUrl": null,
+        "Key": "1627207:21961980407",
+        "OriginalPrice": 107.5,
+        "PcOriginalPrice": 107.5,
+        "Price": 107.5,
+        "SaleCount": 0,
+        "SkuId": "5050916578759",
+        "SpecAttributes": {
+          "颜色分类": "墨绿色砂锅2.8L 建议3-5人使用"
+        }
+      },
+      {
+        "AmountOnSale": 30,
+        "Code": "5050916578760",
+        "CouponPrice": 0,
+        "ImageUrl": null,
+        "Key": "1627207:21961980408",
+        "OriginalPrice": 140.5,
+        "PcOriginalPrice": 140.5,
+        "Price": 140.5,
+        "SaleCount": 0,
+        "SkuId": "5050916578760",
+        "SpecAttributes": {
+          "颜色分类": "米黄色砂锅4L 建议4-6人使用"
+        }
+      },
+      {
+        "AmountOnSale": 26,
+        "Code": "5050916578756",
+        "CouponPrice": 0,
+        "ImageUrl": null,
+        "Key": "1627207:12199942125",
+        "OriginalPrice": 140.5,
+        "PcOriginalPrice": 140.5,
+        "Price": 140.5,
+        "SaleCount": 0,
+        "SkuId": "5050916578756",
+        "SpecAttributes": {
+          "颜色分类": "墨绿色砂锅4L 建议4-6人使用"
+        }
+      },
+      {
+        "AmountOnSale": 29,
+        "Code": "5050916578761",
+        "CouponPrice": 0,
+        "ImageUrl": null,
+        "Key": "1627207:21961980409",
+        "OriginalPrice": 99,
+        "PcOriginalPrice": 99,
+        "Price": 99,
+        "SaleCount": 0,
+        "SkuId": "5050916578761",
+        "SpecAttributes": {
+          "颜色分类": "圆身款-米黄色砂锅2.5L 建议3-4人使用"
+        }
+      },
+      {
+        "AmountOnSale": 28,
+        "Code": "5050916578762",
+        "CouponPrice": 0,
+        "ImageUrl": null,
+        "Key": "1627207:21961980410",
+        "OriginalPrice": 99,
+        "PcOriginalPrice": 99,
+        "Price": 99,
+        "SaleCount": 0,
+        "SkuId": "5050916578762",
+        "SpecAttributes": {
+          "颜色分类": "圆身款-墨绿色砂锅2.5L 建议3-4人使用"
+        }
+      },
+      {
+        "AmountOnSale": 30,
+        "Code": "5050916578763",
+        "CouponPrice": 0,
+        "ImageUrl": null,
+        "Key": "1627207:21961980411",
+        "OriginalPrice": 124,
+        "PcOriginalPrice": 124,
+        "Price": 124,
+        "SaleCount": 0,
+        "SkuId": "5050916578763",
+        "SpecAttributes": {
+          "颜色分类": "圆身款-米黄色砂锅3.5L 建议4-5人使用"
+        }
+      },
+      {
+        "AmountOnSale": 30,
+        "Code": "5050916578764",
+        "CouponPrice": 0,
+        "ImageUrl": null,
+        "Key": "1627207:21961980412",
+        "OriginalPrice": 124,
+        "PcOriginalPrice": 124,
+        "Price": 124,
+        "SaleCount": 0,
+        "SkuId": "5050916578764",
+        "SpecAttributes": {
+          "颜色分类": "圆身款-墨绿色砂锅3.5L 建议4-5人使用"
+        }
+      }
+    ],
+    "SkuProps": [
+      {
+        "IsImg": true,
+        "Prop": "颜色分类",
+        "Value": [
+          {
+            "imageUrl": "//gd1.alicdn.com/imgextra/i3/2273872997/O1CN011lm8bO1Y0fjUm7ioo_!!2273872997.jpg",
+            "name": "汤锅1个",
+            "value": "1627207:1260552116"
+          },
+          {
+            "imageUrl": "//gd3.alicdn.com/imgextra/i4/2273872997/O1CN01ZWkLda1Y0fmdoMNaC_!!2273872997.jpg",
+            "name": "米黄色砂锅1.2L 建议2-3人使用",
+            "value": "1627207:21961980404"
+          },
+          {
+            "imageUrl": "//gd2.alicdn.com/imgextra/i2/2273872997/O1CN01dgDoRo1Y0fmfm2PR8_!!2273872997.jpg",
+            "name": "墨绿色砂锅1.2L 建议2-3人使用",
+            "value": "1627207:21961980405"
+          },
+          {
+            "imageUrl": "//gd2.alicdn.com/imgextra/i3/2273872997/O1CN01ArHmhX1Y0fmicifWu_!!2273872997.jpg",
+            "name": "米黄色砂锅2.8L 建议3-5人使用",
+            "value": "1627207:21961980406"
+          },
+          {
+            "imageUrl": "//gd1.alicdn.com/imgextra/i3/2273872997/O1CN01hVtGCw1Y0fmhnvSha_!!2273872997.jpg",
+            "name": "墨绿色砂锅2.8L 建议3-5人使用",
+            "value": "1627207:21961980407"
+          },
+          {
+            "imageUrl": "//gd4.alicdn.com/imgextra/i1/2273872997/O1CN01zmu2jo1Y0fmb6V89y_!!2273872997.jpg",
+            "name": "米黄色砂锅4L 建议4-6人使用",
+            "value": "1627207:21961980408"
+          },
+          {
+            "imageUrl": "//gd1.alicdn.com/imgextra/i3/2273872997/O1CN01unh8c41Y0fmWDRTVs_!!2273872997.jpg",
+            "name": "墨绿色砂锅4L 建议4-6人使用",
+            "value": "1627207:12199942125"
+          },
+          {
+            "imageUrl": "//gd4.alicdn.com/imgextra/i1/2273872997/O1CN01CgGrFU1Y0fmgX3FqT_!!2273872997.jpg",
+            "name": "圆身款-米黄色砂锅2.5L 建议3-4人使用",
+            "value": "1627207:21961980409"
+          },
+          {
+            "imageUrl": "//gd1.alicdn.com/imgextra/i3/2273872997/O1CN01wrB8cW1Y0fmctJP0H_!!2273872997.jpg",
+            "name": "圆身款-墨绿色砂锅2.5L 建议3-4人使用",
+            "value": "1627207:21961980410"
+          },
+          {
+            "imageUrl": "//gd1.alicdn.com/imgextra/i3/2273872997/O1CN01H4v3NP1Y0fmb6WKz9_!!2273872997.jpg",
+            "name": "圆身款-米黄色砂锅3.5L 建议4-5人使用",
+            "value": "1627207:21961980411"
+          },
+          {
+            "imageUrl": "//gd1.alicdn.com/imgextra/i3/2273872997/O1CN01QflHjX1Y0fmedOQWl_!!2273872997.jpg",
+            "name": "圆身款-墨绿色砂锅3.5L 建议4-5人使用",
+            "value": "1627207:21961980412"
+          }
+        ]
+      }
+    ],
+    "SourceType": 1,
+    "Subject": "北美红雀冬青浆果欧式陶瓷餐具汤锅汤碗汤盆手绘浮雕彩绘带盖耐热",
+    "Tag": [],
+    "Tags": null,
+    "Unit": "件",
+    "UserId": "2273872997"
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/taobao-e-commerce-api-27ad"
+}
