@@ -1,0 +1,591 @@
+{
+  "code": 0,
+  "credits": 0.005,
+  "result": {
+    "RN": "17a5ade437daf47f5d3f4ea27c02995d",
+    "_solutionHost": "33.0.51.63",
+    "abtest": "16",
+    "bucketId": "16",
+    "isJiaGou": "true",
+    "itemsArray": [
+      {
+        "auctionUrl": "http://a.m.taobao.com/i770419320844.htm?&v=1.0&sid=23ece19aabc5d3bb311a20572d464c13&jose=1",
+        "cardType": "item",
+        "clickTrace": "query:;nid:770419320844;cat_id:;seller_id:1579139371;seller_type:1;src:inshop;recType:;rn:17a5ade437daf47f5d3f4ea27c02995d;c_flag:false;client:h5;sp_rank_features:vv%3A0.026228228583931923%3Bvw%3A0.050286486744880676%3Bua%3A0.0%3Bub%3A0.0%3Bud%3A0.0%3Bue%3A0.0%3Buf%3A0.0%3Bug%3A2.0%3Buh%3A94.0%3Bui%3A121.0%3Brqs%3A0.0%3Buj%3A0.0%3Bun%3A0.0%3Bi2i%3A0.0%3Bi2i2%3A0.0%3Bxa%3A33.89716339111328%3Bis%3A0.0%3Bxb%3A0.6150819063186646%3Bxc%3A0.0%3Bvb%3A1.2630271911621094%3Bxd%3A-0.48599985241889954%3Bu2i%3A0.0%3Bxe%3A4.009331226348877%3Butm%3A0.0%3Bve%3A0.0%3Bvg%3A0.05445820093154907%3Bxi%3A0.0%3Bxj%3A0.0%3Bxk%3A0.0%3Bxl%3A0.0%3Bxm%3A0.0%3Bvl%3A0.0%3Bxn%3A0.0%3Bxo%3A0.0%3Bvn%3A0.0%3Bxp%3A0.0%3Bvp%3A55.11000061035156%3Bvq%3A0.0%3Bvu%3A0.6150819063186646;wlsort:null;price:null;sold:null;sort:_coefp;gray:0;grayBucket:53",
+        "dItemType": "nt_inshop_auction_2020",
+        "extraParams": [
+          {
+            "key": "xxc",
+            "value": "shop"
+          }
+        ],
+        "fastPostFee": "0.00",
+        "isB2c": "1",
+        "isCod": "0",
+        "isInLimitPromotion": "false",
+        "isP4p": "false",
+        "isprepay": "1",
+        "item_id": "770419320844",
+        "jarvisData": {
+          "sp_rank_features": "vv:0.026228228583931923;vw:0.050286486744880676;ua:0.0;ub:0.0;ud:0.0;ue:0.0;uf:0.0;ug:2.0;uh:94.0;ui:121.0;rqs:0.0;uj:0.0;un:0.0;i2i:0.0;i2i2:0.0;xa:33.89716339111328;is:0.0;xb:0.6150819063186646;xc:0.0;vb:1.2630271911621094;xd:-0.48599985241889954;u2i:0.0;xe:4.009331226348877;utm:0.0;ve:0.0;vg:0.05445820093154907;xi:0.0;xj:0.0;xk:0.0;xl:0.0;xm:0.0;vl:0.0;xn:0.0;xo:0.0;vn:0.0;xp:0.0;vp:55.11000061035156;vq:0.0;vu:0.6150819063186646"
+        },
+        "ordinaryPostFee": "0.00",
+        "pic_path": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i3/1579139371/O1CN01OnXdB62J5ySeU63gK_!!0-item_pic.jpg",
+        "price": "39.90",
+        "priceColor": "#000000",
+        "priceShow": {
+          "preText": "",
+          "price": "39.90",
+          "unit": "¥"
+        },
+        "priceWap": "39.90",
+        "priceWithRate": "39.90",
+        "promotedService": "1",
+        "rateSum": "20",
+        "realSales": "0人付款",
+        "shipping": "0.00",
+        "tItemType": "nt_auction",
+        "title": "灰色运动裤女春秋款2024新款高腰垂感拖地开叉阔腿裤休闲直筒卫裤",
+        "type": "fixed",
+        "uprightImg": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i4/1579139371/O1CN01kxSs812J5ySgsgjZE_!!0-item_pic.jpg",
+        "userType": "1",
+        "utLogMap": {
+          "list_param": "_16_17a5ade437daf47f5d3f4ea27c02995d",
+          "searchPageResult": "search",
+          "traceId": "213e1e3217093774208555504e1c23",
+          "ump_invoker": "0"
+        }
+      },
+      {
+        "auctionUrl": "http://a.m.taobao.com/i770642784507.htm?&v=1.0&sid=23ece19aabc5d3bb311a20572d464c13&jose=1",
+        "cardType": "item",
+        "clickTrace": "query:;nid:770642784507;cat_id:;seller_id:1579139371;seller_type:1;src:inshop;recType:;rn:17a5ade437daf47f5d3f4ea27c02995d;c_flag:false;client:h5;sp_rank_features:vv%3A0.02434474602341652%3Bvw%3A0.059855688363313675%3Bua%3A0.0%3Bub%3A0.0%3Bud%3A0.0%3Bue%3A0.0%3Buf%3A0.0%3Bug%3A0.0%3Buh%3A102.0%3Bui%3A0.0%3Brqs%3A0.0%3Buj%3A0.0%3Bun%3A0.0%3Bi2i%3A0.0%3Bi2i2%3A0.0%3Bxa%3A34.0006103515625%3Bis%3A0.0%3Bxb%3A0.6169589757919312%3Bxc%3A0.0%3Bvb%3A1.2487189769744873%3Bxd%3A-0.482952743768692%3Bu2i%3A0.0%3Bxe%3A4.009331226348877%3Butm%3A0.0%3Bve%3A0.0%3Bvg%3A0.055929720401763916%3Bxi%3A0.0%3Bxj%3A0.0%3Bxk%3A0.0%3Bxl%3A0.0%3Bxm%3A0.0%3Bvl%3A0.0%3Bxn%3A0.0%3Bxo%3A0.0%3Bvn%3A0.0%3Bxp%3A0.0%3Bvp%3A55.11000061035156%3Bvq%3A0.0%3Bvu%3A0.6169589757919312;wlsort:null;price:null;sold:null;sort:_coefp;gray:0;grayBucket:53",
+        "dItemType": "nt_inshop_auction_2020",
+        "extraParams": [
+          {
+            "key": "xxc",
+            "value": "shop"
+          }
+        ],
+        "fastPostFee": "0.00",
+        "isB2c": "1",
+        "isCod": "0",
+        "isInLimitPromotion": "false",
+        "isP4p": "false",
+        "isprepay": "1",
+        "item_id": "770642784507",
+        "jarvisData": {
+          "sp_rank_features": "vv:0.02434474602341652;vw:0.059855688363313675;ua:0.0;ub:0.0;ud:0.0;ue:0.0;uf:0.0;ug:0.0;uh:102.0;ui:0.0;rqs:0.0;uj:0.0;un:0.0;i2i:0.0;i2i2:0.0;xa:34.0006103515625;is:0.0;xb:0.6169589757919312;xc:0.0;vb:1.2487189769744873;xd:-0.482952743768692;u2i:0.0;xe:4.009331226348877;utm:0.0;ve:0.0;vg:0.055929720401763916;xi:0.0;xj:0.0;xk:0.0;xl:0.0;xm:0.0;vl:0.0;xn:0.0;xo:0.0;vn:0.0;xp:0.0;vp:55.11000061035156;vq:0.0;vu:0.6169589757919312"
+        },
+        "ordinaryPostFee": "0.00",
+        "pic_path": "http://g.search1.alicdn.com/img/bao/uploaded/i4/i4/1579139371/O1CN01sdJHop2J5ySfxbJpW_!!0-item_pic.jpg",
+        "price": "46.90",
+        "priceColor": "#000000",
+        "priceShow": {
+          "preText": "",
+          "price": "46.90",
+          "unit": "¥"
+        },
+        "priceWap": "46.90",
+        "priceWithRate": "46.90",
+        "promotedService": "1",
+        "rateSum": "20",
+        "realSales": "0人付款",
+        "shipping": "0.00",
+        "tItemType": "nt_auction",
+        "title": "高腰牛仔裤女春秋2024年新款弹力紧身铅笔裤九分修身显瘦小脚裤子",
+        "type": "fixed",
+        "uprightImg": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i2/1579139371/O1CN01lgN8682J5ySjGHQ7h_!!0-item_pic.jpg",
+        "userType": "1",
+        "utLogMap": {
+          "list_param": "_16_17a5ade437daf47f5d3f4ea27c02995d",
+          "searchPageResult": "search",
+          "traceId": "213e1e3217093774208555504e1c23",
+          "ump_invoker": "0"
+        }
+      },
+      {
+        "auctionUrl": "http://a.m.taobao.com/i770469422129.htm?&v=1.0&sid=23ece19aabc5d3bb311a20572d464c13&jose=1",
+        "cardType": "item",
+        "clickTrace": "query:;nid:770469422129;cat_id:;seller_id:1579139371;seller_type:1;src:inshop;recType:;rn:17a5ade437daf47f5d3f4ea27c02995d;c_flag:false;client:h5;sp_rank_features:vv%3A0.02624659426510334%3Bvw%3A0.05111826956272125%3Bua%3A0.0%3Bub%3A0.0%3Bud%3A0.0%3Bue%3A0.0%3Buf%3A0.0%3Bug%3A1.0%3Buh%3A88.0%3Bui%3A69.0%3Brqs%3A0.0%3Buj%3A0.0%3Bun%3A0.0%3Bi2i%3A0.0%3Bi2i2%3A0.0%3Bxa%3A34.0006103515625%3Bis%3A0.0%3Bxb%3A0.6169589757919312%3Bxc%3A0.0%3Bvb%3A1.2487189769744873%3Bxd%3A-0.482952743768692%3Bu2i%3A0.0%3Bxe%3A4.009331226348877%3Butm%3A0.0%3Bve%3A0.0%3Bvg%3A0.05427482724189758%3Bxi%3A0.0%3Bxj%3A0.0%3Bxk%3A0.0%3Bxl%3A0.0%3Bxm%3A0.0%3Bvl%3A0.0%3Bxn%3A0.0%3Bxo%3A0.0%3Bvn%3A0.0%3Bxp%3A0.0%3Bvp%3A55.11000061035156%3Bvq%3A0.0%3Bvu%3A0.6169589757919312;wlsort:null;price:null;sold:null;sort:_coefp;gray:0;grayBucket:53",
+        "dItemType": "nt_inshop_auction_2020",
+        "extraParams": [
+          {
+            "key": "xxc",
+            "value": "shop"
+          }
+        ],
+        "fastPostFee": "0.00",
+        "isB2c": "1",
+        "isCod": "0",
+        "isInLimitPromotion": "false",
+        "isP4p": "false",
+        "isprepay": "1",
+        "item_id": "770469422129",
+        "jarvisData": {
+          "sp_rank_features": "vv:0.02624659426510334;vw:0.05111826956272125;ua:0.0;ub:0.0;ud:0.0;ue:0.0;uf:0.0;ug:1.0;uh:88.0;ui:69.0;rqs:0.0;uj:0.0;un:0.0;i2i:0.0;i2i2:0.0;xa:34.0006103515625;is:0.0;xb:0.6169589757919312;xc:0.0;vb:1.2487189769744873;xd:-0.482952743768692;u2i:0.0;xe:4.009331226348877;utm:0.0;ve:0.0;vg:0.05427482724189758;xi:0.0;xj:0.0;xk:0.0;xl:0.0;xm:0.0;vl:0.0;xn:0.0;xo:0.0;vn:0.0;xp:0.0;vp:55.11000061035156;vq:0.0;vu:0.6169589757919312"
+        },
+        "ordinaryPostFee": "0.00",
+        "pic_path": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i4/1579139371/O1CN01x9Yfm92J5ySjT0fU2_!!0-item_pic.jpg",
+        "price": "34.90",
+        "priceColor": "#000000",
+        "priceShow": {
+          "preText": "",
+          "price": "34.90",
+          "unit": "¥"
+        },
+        "priceWap": "34.90",
+        "priceWithRate": "34.90",
+        "promotedService": "1",
+        "rateSum": "20",
+        "realSales": "0人付款",
+        "shipping": "0.00",
+        "tItemType": "nt_auction",
+        "title": "冰丝阔腿裤女夏季薄款2024新款高腰垂感窄版直筒小个子休闲西装裤",
+        "type": "fixed",
+        "uprightImg": "http://g.search1.alicdn.com/img/bao/uploaded/i4/i2/1579139371/O1CN01NqJL1G2J5yScWDPNN_!!0-item_pic.jpg",
+        "userType": "1",
+        "utLogMap": {
+          "list_param": "_16_17a5ade437daf47f5d3f4ea27c02995d",
+          "searchPageResult": "search",
+          "traceId": "213e1e3217093774208555504e1c23",
+          "ump_invoker": "0"
+        }
+      },
+      {
+        "auctionUrl": "http://a.m.taobao.com/i769529690983.htm?&v=1.0&sid=23ece19aabc5d3bb311a20572d464c13&jose=1",
+        "cardType": "item",
+        "clickTrace": "query:;nid:769529690983;cat_id:;seller_id:1579139371;seller_type:1;src:inshop;recType:;rn:17a5ade437daf47f5d3f4ea27c02995d;c_flag:false;client:h5;sp_rank_features:vv%3A0.026228228583931923%3Bvw%3A0.050286486744880676%3Bua%3A0.0%3Bub%3A0.0%3Bud%3A0.0%3Bue%3A0.0%3Buf%3A0.0%3Bug%3A2.0%3Buh%3A94.0%3Bui%3A0.0%3Brqs%3A0.0%3Buj%3A0.0%3Bun%3A0.0%3Bi2i%3A0.0%3Bi2i2%3A0.0%3Bxa%3A33.89716339111328%3Bis%3A0.0%3Bxb%3A0.6150819063186646%3Bxc%3A0.0%3Bvb%3A1.2630271911621094%3Bxd%3A-0.48599985241889954%3Bu2i%3A0.0%3Bxe%3A4.009331226348877%3Butm%3A0.0%3Bve%3A1.0%3Bvg%3A0.04994961619377136%3Bxi%3A0.0%3Bxj%3A0.0%3Bxk%3A0.0%3Bxl%3A0.0%3Bxm%3A0.0%3Bvl%3A0.0%3Bxn%3A0.0%3Bxo%3A0.0%3Bvn%3A0.0%3Bxp%3A0.0%3Bvp%3A55.11000061035156%3Bvq%3A0.0%3Bvu%3A0.6150819063186646;wlsort:null;price:null;sold:null;sort:_coefp;gray:0;grayBucket:53",
+        "dItemType": "nt_inshop_auction_2020",
+        "extraParams": [
+          {
+            "key": "xxc",
+            "value": "shop"
+          }
+        ],
+        "fastPostFee": "0.00",
+        "isB2c": "1",
+        "isCod": "0",
+        "isInLimitPromotion": "false",
+        "isP4p": "false",
+        "isprepay": "1",
+        "item_id": "769529690983",
+        "jarvisData": {
+          "sp_rank_features": "vv:0.026228228583931923;vw:0.050286486744880676;ua:0.0;ub:0.0;ud:0.0;ue:0.0;uf:0.0;ug:2.0;uh:94.0;ui:0.0;rqs:0.0;uj:0.0;un:0.0;i2i:0.0;i2i2:0.0;xa:33.89716339111328;is:0.0;xb:0.6150819063186646;xc:0.0;vb:1.2630271911621094;xd:-0.48599985241889954;u2i:0.0;xe:4.009331226348877;utm:0.0;ve:1.0;vg:0.04994961619377136;xi:0.0;xj:0.0;xk:0.0;xl:0.0;xm:0.0;vl:0.0;xn:0.0;xo:0.0;vn:0.0;xp:0.0;vp:55.11000061035156;vq:0.0;vu:0.6150819063186646"
+        },
+        "ordinaryPostFee": "0.00",
+        "pic_path": "http://g.search.alicdn.com/img/bao/uploaded/i4/i4/1579139371/O1CN01LawmZK2J5ySZauaMl_!!0-item_pic.jpg",
+        "price": "39.90",
+        "priceColor": "#000000",
+        "priceShow": {
+          "preText": "",
+          "price": "39.90",
+          "unit": "¥"
+        },
+        "priceWap": "39.90",
+        "priceWithRate": "39.90",
+        "promotedService": "1",
+        "rateSum": "20",
+        "realSales": "0人付款",
+        "shipping": "0.00",
+        "tItemType": "nt_auction",
+        "title": "黑色窄版阔腿裤女2024新款春秋直筒休闲小个子高级感垂感西装裤夏",
+        "type": "fixed",
+        "uprightImg": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i2/1579139371/O1CN01i11bl62J5ySVY4g2z_!!0-item_pic.jpg",
+        "userType": "1",
+        "utLogMap": {
+          "list_param": "_16_17a5ade437daf47f5d3f4ea27c02995d",
+          "searchPageResult": "search",
+          "traceId": "213e1e3217093774208555504e1c23",
+          "ump_invoker": "0"
+        }
+      },
+      {
+        "auctionUrl": "http://a.m.taobao.com/i770377504289.htm?&v=1.0&sid=23ece19aabc5d3bb311a20572d464c13&jose=1",
+        "cardType": "item",
+        "clickTrace": "query:;nid:770377504289;cat_id:;seller_id:1579139371;seller_type:1;src:inshop;recType:;rn:17a5ade437daf47f5d3f4ea27c02995d;c_flag:false;client:h5;sp_rank_features:vv%3A0.026228228583931923%3Bvw%3A0.050286486744880676%3Bua%3A0.0%3Bub%3A0.0%3Bud%3A0.0%3Bue%3A0.0%3Buf%3A0.0%3Bug%3A2.0%3Buh%3A94.0%3Bui%3A74.0%3Brqs%3A0.0%3Buj%3A0.0%3Bun%3A0.0%3Bi2i%3A0.0%3Bi2i2%3A0.0%3Bxa%3A33.89716339111328%3Bis%3A0.0%3Bxb%3A0.6150819063186646%3Bxc%3A0.0%3Bvb%3A1.2630271911621094%3Bxd%3A-0.48599985241889954%3Bu2i%3A0.0%3Bxe%3A4.009331226348877%3Butm%3A0.0%3Bve%3A1.0%3Bvg%3A0.04994961619377136%3Bxi%3A0.0%3Bxj%3A0.0%3Bxk%3A0.0%3Bxl%3A0.0%3Bxm%3A0.0%3Bvl%3A0.0%3Bxn%3A0.0%3Bxo%3A0.0%3Bvn%3A0.0%3Bxp%3A0.0%3Bvp%3A55.11000061035156%3Bvq%3A0.0%3Bvu%3A0.6150819063186646;wlsort:null;price:null;sold:null;sort:_coefp;gray:0;grayBucket:53",
+        "dItemType": "nt_inshop_auction_2020",
+        "extraParams": [
+          {
+            "key": "xxc",
+            "value": "shop"
+          }
+        ],
+        "fastPostFee": "0.00",
+        "isB2c": "1",
+        "isCod": "0",
+        "isInLimitPromotion": "false",
+        "isP4p": "false",
+        "isprepay": "1",
+        "item_id": "770377504289",
+        "jarvisData": {
+          "sp_rank_features": "vv:0.026228228583931923;vw:0.050286486744880676;ua:0.0;ub:0.0;ud:0.0;ue:0.0;uf:0.0;ug:2.0;uh:94.0;ui:74.0;rqs:0.0;uj:0.0;un:0.0;i2i:0.0;i2i2:0.0;xa:33.89716339111328;is:0.0;xb:0.6150819063186646;xc:0.0;vb:1.2630271911621094;xd:-0.48599985241889954;u2i:0.0;xe:4.009331226348877;utm:0.0;ve:1.0;vg:0.04994961619377136;xi:0.0;xj:0.0;xk:0.0;xl:0.0;xm:0.0;vl:0.0;xn:0.0;xo:0.0;vn:0.0;xp:0.0;vp:55.11000061035156;vq:0.0;vu:0.6150819063186646"
+        },
+        "ordinaryPostFee": "0.00",
+        "pic_path": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i1/1579139371/O1CN01O26CRA2J5ySgNd7JJ_!!0-item_pic.jpg",
+        "price": "39.90",
+        "priceColor": "#000000",
+        "priceShow": {
+          "preText": "",
+          "price": "39.90",
+          "unit": "¥"
+        },
+        "priceWap": "39.90",
+        "priceWithRate": "39.90",
+        "promotedService": "1",
+        "rateSum": "20",
+        "realSales": "0人付款",
+        "shipping": "0.00",
+        "tItemType": "nt_auction",
+        "title": "哈伦裤女春秋2024新款灰色小个子九分束脚运动裤宽松休闲显瘦卫裤",
+        "type": "fixed",
+        "uprightImg": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i1/1579139371/O1CN01Kl7SnE2J5yShrxbms_!!0-item_pic.jpg",
+        "userType": "1",
+        "utLogMap": {
+          "list_param": "_16_17a5ade437daf47f5d3f4ea27c02995d",
+          "searchPageResult": "search",
+          "traceId": "213e1e3217093774208555504e1c23",
+          "ump_invoker": "0"
+        }
+      },
+      {
+        "auctionUrl": "http://a.m.taobao.com/i770636249697.htm?&v=1.0&sid=23ece19aabc5d3bb311a20572d464c13&jose=1",
+        "cardType": "item",
+        "clickTrace": "query:;nid:770636249697;cat_id:;seller_id:1579139371;seller_type:1;src:inshop;recType:;rn:17a5ade437daf47f5d3f4ea27c02995d;c_flag:false;client:h5;sp_rank_features:vv%3A0.024369359016418457%3Bvw%3A0.05916785076260567%3Bua%3A0.0%3Bub%3A0.0%3Bud%3A0.0%3Bue%3A0.0%3Buf%3A0.0%3Bug%3A0.0%3Buh%3A88.0%3Bui%3A147.0%3Brqs%3A0.0%3Buj%3A0.0%3Bun%3A0.0%3Bi2i%3A0.0%3Bi2i2%3A0.0%3Bxa%3A34.0006103515625%3Bis%3A0.0%3Bxb%3A0.6169589757919312%3Bxc%3A0.0%3Bvb%3A1.2487189769744873%3Bxd%3A-0.482952743768692%3Bu2i%3A0.0%3Bxe%3A4.009331226348877%3Butm%3A0.0%3Bve%3A1.0%3Bvg%3A0.05133539438247681%3Bxi%3A0.0%3Bxj%3A0.0%3Bxk%3A0.0%3Bxl%3A0.0%3Bxm%3A0.0%3Bvl%3A0.0%3Bxn%3A0.0%3Bxo%3A0.0%3Bvn%3A0.0%3Bxp%3A0.0%3Bvp%3A55.11000061035156%3Bvq%3A0.0%3Bvu%3A0.6169589757919312;wlsort:null;price:null;sold:null;sort:_coefp;gray:0;grayBucket:53",
+        "dItemType": "nt_inshop_auction_2020",
+        "extraParams": [
+          {
+            "key": "xxc",
+            "value": "shop"
+          }
+        ],
+        "fastPostFee": "0.00",
+        "isB2c": "1",
+        "isCod": "0",
+        "isInLimitPromotion": "false",
+        "isP4p": "false",
+        "isprepay": "1",
+        "item_id": "770636249697",
+        "jarvisData": {
+          "sp_rank_features": "vv:0.024369359016418457;vw:0.05916785076260567;ua:0.0;ub:0.0;ud:0.0;ue:0.0;uf:0.0;ug:0.0;uh:88.0;ui:147.0;rqs:0.0;uj:0.0;un:0.0;i2i:0.0;i2i2:0.0;xa:34.0006103515625;is:0.0;xb:0.6169589757919312;xc:0.0;vb:1.2487189769744873;xd:-0.482952743768692;u2i:0.0;xe:4.009331226348877;utm:0.0;ve:1.0;vg:0.05133539438247681;xi:0.0;xj:0.0;xk:0.0;xl:0.0;xm:0.0;vl:0.0;xn:0.0;xo:0.0;vn:0.0;xp:0.0;vp:55.11000061035156;vq:0.0;vu:0.6169589757919312"
+        },
+        "ordinaryPostFee": "0.00",
+        "pic_path": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i4/1579139371/O1CN01Yp77hH2J5ySXZ0lol_!!0-item_pic.jpg",
+        "price": "34.90",
+        "priceColor": "#000000",
+        "priceShow": {
+          "preText": "",
+          "price": "34.90",
+          "unit": "¥"
+        },
+        "priceWap": "34.90",
+        "priceWithRate": "34.90",
+        "promotedService": "1",
+        "rateSum": "20",
+        "realSales": "0人付款",
+        "shipping": "0.00",
+        "tItemType": "nt_auction",
+        "title": "粉色冰丝阔腿裤女夏季薄款2024新款垂感休闲小个子窄版直筒山本裤",
+        "type": "fixed",
+        "uprightImg": "http://g.search1.alicdn.com/img/bao/uploaded/i4/i2/1579139371/O1CN01ogmLIh2J5yShpVwa5_!!0-item_pic.jpg",
+        "userType": "1",
+        "utLogMap": {
+          "list_param": "_16_17a5ade437daf47f5d3f4ea27c02995d",
+          "searchPageResult": "search",
+          "traceId": "213e1e3217093774208555504e1c23",
+          "ump_invoker": "0"
+        }
+      },
+      {
+        "auctionUrl": "http://a.m.taobao.com/i770479989521.htm?&v=1.0&sid=23ece19aabc5d3bb311a20572d464c13&jose=1",
+        "cardType": "item",
+        "clickTrace": "query:;nid:770479989521;cat_id:;seller_id:1579139371;seller_type:1;src:inshop;recType:;rn:17a5ade437daf47f5d3f4ea27c02995d;c_flag:false;client:h5;sp_rank_features:vv%3A0.02783689647912979%3Bvw%3A0.03113865666091442%3Bua%3A0.0%3Bub%3A0.0%3Bud%3A0.0%3Bue%3A0.0%3Buf%3A0.0%3Bug%3A2.0%3Buh%3A0.0%3Bui%3A0.0%3Brqs%3A0.0%3Buj%3A0.0%3Bun%3A0.0%3Bi2i%3A0.0%3Bi2i2%3A0.0%3Bxa%3A35.90108871459961%3Bis%3A0.0%3Bxb%3A0.6514441967010498%3Bxc%3A0.0%3Bvb%3A1.2595407962799072%3Bxd%3A-0.42856353521347046%3Bu2i%3A0.0%3Bxe%3A4.009331226348877%3Butm%3A0.0%3Bve%3A0.0%3Bvg%3A0.04744476079940796%3Bxi%3A0.0%3Bxj%3A0.0%3Bxk%3A0.0%3Bxl%3A0.0%3Bxm%3A0.0%3Bvl%3A0.0%3Bxn%3A0.0%3Bxo%3A0.0%3Bvn%3A0.0%3Bxp%3A0.0%3Bvp%3A55.11000061035156%3Bvq%3A0.0%3Bvu%3A0.6514441967010498;wlsort:null;price:null;sold:null;sort:_coefp;gray:0;grayBucket:53",
+        "dItemType": "nt_inshop_auction_2020",
+        "extraParams": [
+          {
+            "key": "xxc",
+            "value": "shop"
+          }
+        ],
+        "fastPostFee": "0.00",
+        "isB2c": "1",
+        "isCod": "0",
+        "isInLimitPromotion": "false",
+        "isP4p": "false",
+        "isprepay": "1",
+        "item_id": "770479989521",
+        "jarvisData": {
+          "sp_rank_features": "vv:0.02783689647912979;vw:0.03113865666091442;ua:0.0;ub:0.0;ud:0.0;ue:0.0;uf:0.0;ug:2.0;uh:0.0;ui:0.0;rqs:0.0;uj:0.0;un:0.0;i2i:0.0;i2i2:0.0;xa:35.90108871459961;is:0.0;xb:0.6514441967010498;xc:0.0;vb:1.2595407962799072;xd:-0.42856353521347046;u2i:0.0;xe:4.009331226348877;utm:0.0;ve:0.0;vg:0.04744476079940796;xi:0.0;xj:0.0;xk:0.0;xl:0.0;xm:0.0;vl:0.0;xn:0.0;xo:0.0;vn:0.0;xp:0.0;vp:55.11000061035156;vq:0.0;vu:0.6514441967010498"
+        },
+        "ordinaryPostFee": "0.00",
+        "pic_path": "http://g.search1.alicdn.com/img/bao/uploaded/i4/i3/1579139371/O1CN01X4xOGK2J5ySg8CNfX_!!0-item_pic.jpg",
+        "price": "24.90",
+        "priceColor": "#000000",
+        "priceShow": {
+          "preText": "",
+          "price": "24.90",
+          "unit": "¥"
+        },
+        "priceWap": "24.90",
+        "priceWithRate": "24.90",
+        "promotedService": "1",
+        "rateSum": "20",
+        "realSales": "0人付款",
+        "shipping": "0.00",
+        "tItemType": "nt_auction",
+        "title": "哑光鲨鱼裤女外穿春秋薄款紧身弹力高腰提臀瑜伽裤健身芭比打底裤",
+        "type": "fixed",
+        "uprightImg": "http://g.search1.alicdn.com/img/bao/uploaded/i4/i3/1579139371/O1CN01ZyNfXK2J5ySeNzh4H_!!0-item_pic.jpg",
+        "userType": "1",
+        "utLogMap": {
+          "list_param": "_16_17a5ade437daf47f5d3f4ea27c02995d",
+          "searchPageResult": "search",
+          "traceId": "213e1e3217093774208555504e1c23",
+          "ump_invoker": "0"
+        }
+      },
+      {
+        "auctionUrl": "http://a.m.taobao.com/i770450193341.htm?&v=1.0&sid=23ece19aabc5d3bb311a20572d464c13&jose=1",
+        "cardType": "item",
+        "clickTrace": "query:;nid:770450193341;cat_id:;seller_id:1579139371;seller_type:1;src:inshop;recType:;rn:17a5ade437daf47f5d3f4ea27c02995d;c_flag:false;client:h5;sp_rank_features:vv%3A0.024112574756145477%3Bvw%3A0.021830173209309578%3Bua%3A0.0%3Bub%3A0.0%3Bud%3A0.0%3Bue%3A0.0%3Buf%3A0.0%3Bug%3A2.0%3Buh%3A0.0%3Bui%3A0.0%3Brqs%3A0.0%3Buj%3A0.0%3Bun%3A0.0%3Bi2i%3A0.0%3Bi2i2%3A0.0%3Bxa%3A31.9254093170166%3Bis%3A0.0%3Bxb%3A0.5793033838272095%3Bxc%3A0.0%3Bvb%3A1.2203097343444824%3Bxd%3A-0.545928955078125%3Bu2i%3A0.0%3Bxe%3A4.009331226348877%3Butm%3A0.0%3Bve%3A1.0%3Bvg%3A0.04789683222770691%3Bxi%3A0.0%3Bxj%3A0.0%3Bxk%3A0.0%3Bxl%3A0.0%3Bxm%3A0.0%3Bvl%3A0.0%3Bxn%3A0.0%3Bxo%3A0.0%3Bvn%3A0.0%3Bxp%3A0.0%3Bvp%3A55.11000061035156%3Bvq%3A0.0%3Bvu%3A0.5793033838272095;wlsort:null;price:null;sold:null;sort:_coefp;gray:0;grayBucket:53",
+        "dItemType": "nt_inshop_auction_2020",
+        "extraParams": [
+          {
+            "key": "xxc",
+            "value": "shop"
+          }
+        ],
+        "fastPostFee": "0.00",
+        "isB2c": "1",
+        "isCod": "0",
+        "isInLimitPromotion": "false",
+        "isP4p": "false",
+        "isprepay": "1",
+        "item_id": "770450193341",
+        "jarvisData": {
+          "sp_rank_features": "vv:0.024112574756145477;vw:0.021830173209309578;ua:0.0;ub:0.0;ud:0.0;ue:0.0;uf:0.0;ug:2.0;uh:0.0;ui:0.0;rqs:0.0;uj:0.0;un:0.0;i2i:0.0;i2i2:0.0;xa:31.9254093170166;is:0.0;xb:0.5793033838272095;xc:0.0;vb:1.2203097343444824;xd:-0.545928955078125;u2i:0.0;xe:4.009331226348877;utm:0.0;ve:1.0;vg:0.04789683222770691;xi:0.0;xj:0.0;xk:0.0;xl:0.0;xm:0.0;vl:0.0;xn:0.0;xo:0.0;vn:0.0;xp:0.0;vp:55.11000061035156;vq:0.0;vu:0.5793033838272095"
+        },
+        "ordinaryPostFee": "0.00",
+        "pic_path": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i4/1579139371/O1CN01n6t2eD2J5ySfvmDKf_!!0-item_pic.jpg",
+        "price": "44.90",
+        "priceColor": "#000000",
+        "priceShow": {
+          "preText": "",
+          "price": "44.90",
+          "unit": "¥"
+        },
+        "priceWap": "44.90",
+        "priceWithRate": "44.90",
+        "promotedService": "1",
+        "rateSum": "20",
+        "realSales": "0人付款",
+        "shipping": "0.00",
+        "tItemType": "nt_auction",
+        "title": "烟灰色牛仔裤女春秋2024年新款高腰紧身弹力修身显瘦铅笔小脚裤子",
+        "type": "fixed",
+        "uprightImg": "http://g.search1.alicdn.com/img/bao/uploaded/i4/i2/1579139371/O1CN01cYyoW62J5ySevzFoe_!!0-item_pic.jpg",
+        "userType": "1",
+        "utLogMap": {
+          "list_param": "_16_17a5ade437daf47f5d3f4ea27c02995d",
+          "searchPageResult": "search",
+          "traceId": "213e1e3217093774208555504e1c23",
+          "ump_invoker": "0"
+        }
+      },
+      {
+        "auctionUrl": "http://a.m.taobao.com/i770463733736.htm?&v=1.0&sid=23ece19aabc5d3bb311a20572d464c13&jose=1",
+        "cardType": "item",
+        "clickTrace": "query:;nid:770463733736;cat_id:;seller_id:1579139371;seller_type:1;src:inshop;recType:;rn:17a5ade437daf47f5d3f4ea27c02995d;c_flag:false;client:h5;sp_rank_features:vv%3A0.024803366512060165%3Bvw%3A0.022302133962512016%3Bua%3A0.0%3Bub%3A0.0%3Bud%3A0.0%3Bue%3A0.0%3Buf%3A0.0%3Bug%3A1.0%3Buh%3A0.0%3Bui%3A93.0%3Brqs%3A0.0%3Buj%3A0.0%3Bun%3A0.0%3Bi2i%3A0.0%3Bi2i2%3A0.0%3Bxa%3A34.0006103515625%3Bis%3A0.0%3Bxb%3A0.6169589757919312%3Bxc%3A0.0%3Bvb%3A1.2487189769744873%3Bxd%3A-0.482952743768692%3Bu2i%3A0.0%3Bxe%3A4.009331226348877%3Butm%3A0.0%3Bve%3A0.0%3Bvg%3A0.04714655876159668%3Bxi%3A0.0%3Bxj%3A0.0%3Bxk%3A0.0%3Bxl%3A0.0%3Bxm%3A0.0%3Bvl%3A0.0%3Bxn%3A0.0%3Bxo%3A0.0%3Bvn%3A0.0%3Bxp%3A0.0%3Bvp%3A55.11000061035156%3Bvq%3A0.0%3Bvu%3A0.6169589757919312;wlsort:null;price:null;sold:null;sort:_coefp;gray:0;grayBucket:53",
+        "dItemType": "nt_inshop_auction_2020",
+        "extraParams": [
+          {
+            "key": "xxc",
+            "value": "shop"
+          }
+        ],
+        "fastPostFee": "0.00",
+        "isB2c": "1",
+        "isCod": "0",
+        "isInLimitPromotion": "false",
+        "isP4p": "false",
+        "isprepay": "1",
+        "item_id": "770463733736",
+        "jarvisData": {
+          "sp_rank_features": "vv:0.024803366512060165;vw:0.022302133962512016;ua:0.0;ub:0.0;ud:0.0;ue:0.0;uf:0.0;ug:1.0;uh:0.0;ui:93.0;rqs:0.0;uj:0.0;un:0.0;i2i:0.0;i2i2:0.0;xa:34.0006103515625;is:0.0;xb:0.6169589757919312;xc:0.0;vb:1.2487189769744873;xd:-0.482952743768692;u2i:0.0;xe:4.009331226348877;utm:0.0;ve:0.0;vg:0.04714655876159668;xi:0.0;xj:0.0;xk:0.0;xl:0.0;xm:0.0;vl:0.0;xn:0.0;xo:0.0;vn:0.0;xp:0.0;vp:55.11000061035156;vq:0.0;vu:0.6169589757919312"
+        },
+        "ordinaryPostFee": "0.00",
+        "pic_path": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i4/1579139371/O1CN01uqk19j2J5ySf5mDHg_!!0-item_pic.jpg",
+        "price": "34.90",
+        "priceColor": "#000000",
+        "priceShow": {
+          "preText": "",
+          "price": "34.90",
+          "unit": "¥"
+        },
+        "priceWap": "34.90",
+        "priceWithRate": "34.90",
+        "promotedService": "1",
+        "rateSum": "20",
+        "realSales": "0人付款",
+        "shipping": "0.00",
+        "tItemType": "nt_auction",
+        "title": "冰丝阔腿裤女夏季薄款2024新款直筒垂感小个子休闲慵懒棉麻山本裤",
+        "type": "fixed",
+        "uprightImg": "http://g.search.alicdn.com/img/bao/uploaded/i4/i2/1579139371/O1CN01BB35Q62J5ySeJCLp1_!!0-item_pic.jpg",
+        "userType": "1",
+        "utLogMap": {
+          "list_param": "_16_17a5ade437daf47f5d3f4ea27c02995d",
+          "searchPageResult": "search",
+          "traceId": "213e1e3217093774208555504e1c23",
+          "ump_invoker": "0"
+        }
+      },
+      {
+        "auctionUrl": "http://a.m.taobao.com/i770390224285.htm?&v=1.0&sid=23ece19aabc5d3bb311a20572d464c13&jose=1",
+        "cardType": "item",
+        "clickTrace": "query:;nid:770390224285;cat_id:;seller_id:1579139371;seller_type:1;src:inshop;recType:;rn:17a5ade437daf47f5d3f4ea27c02995d;c_flag:false;client:h5;sp_rank_features:vv%3A0.024712618440389633%3Bvw%3A0.02123258262872696%3Bua%3A0.0%3Bub%3A0.0%3Bud%3A0.0%3Bue%3A0.0%3Buf%3A0.0%3Bug%3A1.0%3Buh%3A0.0%3Bui%3A0.0%3Brqs%3A0.0%3Buj%3A0.0%3Bun%3A0.0%3Bi2i%3A0.0%3Bi2i2%3A0.0%3Bxa%3A32.925804138183594%3Bis%3A0.0%3Bxb%3A0.5974560976028442%3Bxc%3A0.0%3Bvb%3A1.2417829036712646%3Bxd%3A-0.5150744915008545%3Bu2i%3A0.0%3Bxe%3A4.009331226348877%3Butm%3A0.0%3Bve%3A0.0%3Bvg%3A0.046637147665023804%3Bxi%3A0.0%3Bxj%3A0.0%3Bxk%3A0.0%3Bxl%3A0.0%3Bxm%3A0.0%3Bvl%3A0.0%3Bxn%3A0.0%3Bxo%3A0.0%3Bvn%3A0.0%3Bxp%3A0.0%3Bvp%3A55.11000061035156%3Bvq%3A0.0%3Bvu%3A0.5974560976028442;wlsort:null;price:null;sold:null;sort:_coefp;gray:0;grayBucket:53",
+        "dItemType": "nt_inshop_auction_2020",
+        "extraParams": [
+          {
+            "key": "xxc",
+            "value": "shop"
+          }
+        ],
+        "fastPostFee": "0.00",
+        "isB2c": "1",
+        "isCod": "0",
+        "isInLimitPromotion": "false",
+        "isP4p": "false",
+        "isprepay": "1",
+        "item_id": "770390224285",
+        "jarvisData": {
+          "sp_rank_features": "vv:0.024712618440389633;vw:0.02123258262872696;ua:0.0;ub:0.0;ud:0.0;ue:0.0;uf:0.0;ug:1.0;uh:0.0;ui:0.0;rqs:0.0;uj:0.0;un:0.0;i2i:0.0;i2i2:0.0;xa:32.925804138183594;is:0.0;xb:0.5974560976028442;xc:0.0;vb:1.2417829036712646;xd:-0.5150744915008545;u2i:0.0;xe:4.009331226348877;utm:0.0;ve:0.0;vg:0.046637147665023804;xi:0.0;xj:0.0;xk:0.0;xl:0.0;xm:0.0;vl:0.0;xn:0.0;xo:0.0;vn:0.0;xp:0.0;vp:55.11000061035156;vq:0.0;vu:0.5974560976028442"
+        },
+        "ordinaryPostFee": "0.00",
+        "pic_path": "http://g.search.alicdn.com/img/bao/uploaded/i4/i1/1579139371/O1CN01ZjpPEW2J5yShxH6ac_!!0-item_pic.jpg",
+        "price": "46.90",
+        "priceColor": "#000000",
+        "priceShow": {
+          "preText": "",
+          "price": "46.90",
+          "unit": "¥"
+        },
+        "priceWap": "46.90",
+        "priceWithRate": "46.90",
+        "promotedService": "1",
+        "rateSum": "20",
+        "realSales": "0人付款",
+        "shipping": "0.00",
+        "tItemType": "nt_auction",
+        "title": "条纹运动裤女2024新款夏季薄款直筒宽松休闲小个子冰丝窄版阔腿裤",
+        "type": "fixed",
+        "uprightImg": "http://g.search.alicdn.com/img/bao/uploaded/i4/i3/1579139371/O1CN01Muqv0D2J5yShYWbkI_!!0-item_pic.jpg",
+        "userType": "1",
+        "utLogMap": {
+          "list_param": "_16_17a5ade437daf47f5d3f4ea27c02995d",
+          "searchPageResult": "search",
+          "traceId": "213e1e3217093774208555504e1c23",
+          "ump_invoker": "0"
+        }
+      }
+    ],
+    "mainCategory": "16",
+    "newPromotion": {
+      "filters": [
+        {
+          "normal": {
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#FF0036",
+            "textColor": "#FF0036",
+            "title": "筛选38抢先购活动商品"
+          },
+          "paramKey": "pfilter",
+          "paramValue": "2024-inshop-38qxg-huodong",
+          "selected": {
+            "backgroundColor": "#FF0036",
+            "borderColor": "#FF0036",
+            "textColor": "#FFFFFF",
+            "title": "已选38抢先购活动商品"
+          },
+          "status": "normal"
+        }
+      ],
+      "selectType": "single"
+    },
+    "order_by": "_coefp",
+    "page": "1",
+    "pageName": "InShopSrp",
+    "pageSize": "5",
+    "pageTraceArgs": [
+      {
+        "key": "utparam-cnt",
+        "value": "{\"list_param\":\"_16_17a5ade437daf47f5d3f4ea27c02995d\",\"for_bts\":\"magellan:716507;JK95:464407;pk_exp:35387;health_rerank:437121;tmall_tab_bucket:5540;navigation_kg:10291;spl_suggest:97839;tpp_search_ab:356205;tb_sug_rank:25824;tpp_search_bucketId:1;search_growth_drop_down:21040;search_growth_outside:17105;tmall_tab_bucket:5540;ifashion_tab_fe:546005;shop_combo:29010;sophon_card_hs:565509;newSearch:6445016;tpp_search_app:38599;grayLayerBucket:53;jdkVersion:11\"}"
+      }
+    ],
+    "pageTraceName": "Page_SearchItemList-InShopSrp",
+    "paramValue": "",
+    "parameter": "q",
+    "pvid": "61f24755-a428-460e-b6a3-24c73028ef53",
+    "result": [],
+    "scm": "1007.48599.356205.0",
+    "sessionid": "09f7ccd6d2213d738c4668a87eb916fd",
+    "sortMenu": {
+      "showFilter": "false",
+      "showStyle": "true",
+      "sortBar": [
+        {
+          "paramValue": "_coefp",
+          "selected": "true",
+          "showText": "综合",
+          "trace": "Sort_Colligate",
+          "type": "normal"
+        },
+        {
+          "paramValue": "_sale",
+          "selected": "false",
+          "showText": "销量",
+          "trace": "Sort_Sale",
+          "type": "normal"
+        },
+        {
+          "paramValue": "first_new",
+          "selected": "false",
+          "showText": "新品",
+          "trace": "NewItems",
+          "type": "normal"
+        },
+        {
+          "selected": "false",
+          "showText": "价格",
+          "subSort": [
+            {
+              "paramValue": "bid",
+              "selected": "false",
+              "showText": "价格",
+              "trace": "Sort_Asc"
+            },
+            {
+              "paramValue": "_bid",
+              "selected": "false",
+              "showText": "价格",
+              "trace": "Sort_Desc"
+            }
+          ],
+          "type": "toggle"
+        }
+      ]
+    },
+    "style": "wf",
+    "switches": {
+      "isJarvisDataCache": "true",
+      "prePaging": "true",
+      "updateUtparam": "true"
+    },
+    "tabName": "新品",
+    "totalPage": "200",
+    "totalResults": "2085",
+    "tpp_trace": "213e1e3217093774208555504e1c23",
+    "version": 1
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/taobao-e-commerce-api-27ad"
+}
